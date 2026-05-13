@@ -1,0 +1,220 @@
+# quiz.kv
+
+#:kivy 2.0
+
+<CategoryScreen>:
+    name: 'category'
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 20
+        spacing: 10
+
+        Label:
+            text: 'Quiz Game'
+            size_hint_y: 0.15
+            font_size: '32sp'
+            bold: True
+            color: (0.2, 0.6, 0.8, 1)
+
+        Label:
+            text: 'Select a Category:'
+            size_hint_y: 0.1
+            font_size: '20sp'
+            color: (0, 0, 0, 1)
+
+        GridLayout:
+            cols: 1
+            spacing: 10
+            size_hint_y: 0.6
+
+            Button:
+                text: 'ANIMALS'
+                background_color: (0.2, 0.6, 0.8, 1)
+                color: (1, 1, 1, 1)
+                font_size: '24sp'
+                bold: True
+                on_release:
+                    app.root.get_screen('quiz').start_quiz('Animal')
+                    app.root.current = 'quiz'
+
+            Button:
+                text: 'MATH'
+                background_color: (0.3, 0.7, 0.5, 1)
+                color: (1, 1, 1, 1)
+                font_size: '24sp'
+                bold: True
+                on_release:
+                    app.root.get_screen('quiz').start_quiz('Math')
+                    app.root.current = 'quiz'
+
+            Button:
+                text: 'HISTORY'
+                background_color: (0.8, 0.5, 0.2, 1)
+                color: (1, 1, 1, 1)
+                font_size: '24sp'
+                bold: True
+                on_release:
+                    app.root.get_screen('quiz').start_quiz('History')
+                    app.root.current = 'quiz'
+
+            Button:
+                text: 'SCIENCE'
+                background_color: (0.6, 0.3, 0.7, 1)
+                color: (1, 1, 1, 1)
+                font_size: '24sp'
+                bold: True
+                on_release:
+                    app.root.get_screen('quiz').start_quiz('Science')
+                    app.root.current = 'quiz'
+
+            Button:
+                text: 'COUNTRIES'
+                background_color: (0.9, 0.4, 0.3, 1)
+                color: (1, 1, 1, 1)
+                font_size: '24sp'
+                bold: True
+                on_release:
+                    app.root.get_screen('quiz').start_quiz('Country')
+                    app.root.current = 'quiz'
+
+        Button:
+            text: 'EXIT GAME'
+            size_hint_y: 0.15
+            background_color: (0.5, 0.5, 0.5, 1)
+            color: (1, 1, 1, 1)
+            font_size: '20sp'
+            bold: True
+            on_release: app.stop()
+
+<QuizScreen>:
+    name: 'quiz'
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 20
+        spacing: 10
+
+        BoxLayout:
+            size_hint_y: 0.1
+            orientation: 'horizontal'
+            spacing: 10
+
+            Label:
+                id: counter_label
+                text: 'Question 1/10'
+                font_size: '18sp'
+                color: (0.5, 0.5, 0.5, 1)
+                halign: 'left'
+                size_hint_x: 0.7
+
+            Button:
+                text: 'EXIT'
+                size_hint_x: 0.3
+                background_color: (0.8, 0.3, 0.3, 1)
+                color: (1, 1, 1, 1)
+                font_size: '16sp'
+                bold: True
+                on_release: root.exit_to_category()
+
+        Label:
+            id: category_label
+            text: root.category
+            size_hint_y: 0.1
+            font_size: '24sp'
+            bold: True
+            color: (0.2, 0.6, 0.8, 1)
+
+        Label:
+            id: question_label
+            text: ''
+            size_hint_y: 0.25
+            font_size: '20sp'
+            halign: 'center'
+            valign: 'middle'
+            text_size: self.width - 40, None
+            color: (0, 0, 0, 1)
+
+        Label:
+            id: score_label
+            text: 'Score: 0'
+            size_hint_y: 0.1
+            font_size: '20sp'
+            bold: True
+            color: (0.2, 0.6, 0.8, 1)
+
+        ScrollView:
+            size_hint_y: 0.45
+            do_scroll_y: True
+            BoxLayout:
+                id: answers_box
+                orientation: 'vertical'
+                spacing: 10
+                size_hint_y: None
+                height: self.minimum_height
+                padding: [0, 0, 0, 10]
+
+<ResultScreen>:
+    name: 'result'
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 20
+        spacing: 20
+
+        Label:
+            text: 'QUIZ COMPLETE!'
+            size_hint_y: 0.2
+            font_size: '32sp'
+            bold: True
+            color: (0.2, 0.6, 0.8, 1)
+
+        Label:
+            id: score_label
+            text: 'Your Score: 0/10'
+            size_hint_y: 0.15
+            font_size: '28sp'
+            bold: True
+            color: (0, 0, 0, 1)
+
+        Label:
+            id: message_label
+            text: ''
+            size_hint_y: 0.2
+            font_size: '20sp'
+            halign: 'center'
+            valign: 'middle'
+            text_size: self.width - 40, None
+            color: (0.2, 0.6, 0.8, 1)
+
+        BoxLayout:
+            orientation: 'vertical'
+            spacing: 10
+            size_hint_y: 0.45
+
+            Button:
+                text: 'TRY SAME CATEGORY AGAIN'
+                size_hint_y: None
+                height: kivy.metrics.dp(50)
+                background_color: (0.3, 0.7, 0.5, 1)
+                color: (1, 1, 1, 1)
+                font_size: '18sp'
+                bold: True
+                on_release: root.retry_category()
+
+            Button:
+                text: 'CHOOSE DIFFERENT CATEGORY'
+                size_hint_y: None
+                height: kivy.metrics.dp(50)
+                background_color: (0.2, 0.6, 0.8, 1)
+                color: (1, 1, 1, 1)
+                font_size: '18sp'
+                bold: True
+                on_release: root.play_again()
+
+            Button:
+                text: 'EXIT GAME'
+                size_hint_y: None
+                height: kivy.metrics.dp(50)
+                background_color: (0.8, 0.3, 0.3, 1)
+                color: (1, 1, 1, 1)
+                font_size: '18sp'
+                bold: True
+                on_release: app.stop()
