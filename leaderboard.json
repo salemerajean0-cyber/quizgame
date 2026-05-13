@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-05-12T19:37:14",
+    "name": "Era123",
+    "score": 5,
+    "total": 10,
+    "category": "Technology",
+    "difficulty": "easy",
+    "streak": 2
+  },
+  {
+    "date": "2026-05-12T20:39:52",
+    "name": "guest",
+    "score": 4,
+    "total": 10,
+    "category": "Technology",
+    "difficulty": "medium",
+    "streak": 1
+  },
+  {
+    "date": "2026-05-12T19:51:02",
+    "name": "Era123",
+    "score": 2,
+    "total": 10,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "streak": 2
+  },
+  {
+    "date": "2026-05-12T20:33:04",
+    "name": "guest",
+    "score": 2,
+    "total": 10,
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "streak": 1
+  }
+]
