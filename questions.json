@@ -1,0 +1,3082 @@
+{
+  "General Knowledge": {
+    "easy": [
+      {
+        "question": "What is the capital city of Japan?",
+        "correct": "Tokyo",
+        "wrong": [
+          "Kyoto",
+          "Osaka",
+          "Seoul"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "correct": "Mars",
+        "wrong": [
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many continents are there in the world?",
+        "correct": "7",
+        "wrong": [
+          "5",
+          "6",
+          "8"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "correct": "Pacific Ocean",
+        "wrong": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who invented the telephone?",
+        "correct": "Alexander Graham Bell",
+        "wrong": [
+          "Thomas Edison",
+          "Nikola Tesla",
+          "Samuel Morse"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national animal of the Philippines?",
+        "correct": "Carabao",
+        "wrong": [
+          "Philippine Eagle",
+          "Tamaraw",
+          "Maya"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "correct": "Japan",
+        "wrong": [
+          "China",
+          "South Korea",
+          "Thailand"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct": "100°C",
+        "wrong": [
+          "90°C",
+          "99°C",
+          "212°C"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which language has the most native speakers in the world?",
+        "correct": "Mandarin Chinese",
+        "wrong": [
+          "English",
+          "Spanish",
+          "Hindi"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the smallest country in the world?",
+        "correct": "Vatican City",
+        "wrong": [
+          "Monaco",
+          "Malta",
+          "San Marino"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "What is the capital city of Japan?",
+        "correct": "Tokyo",
+        "wrong": [
+          "Kyoto",
+          "Osaka",
+          "Seoul"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "correct": "Mars",
+        "wrong": [
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many continents are there in the world?",
+        "correct": "7",
+        "wrong": [
+          "5",
+          "6",
+          "8"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "correct": "Pacific Ocean",
+        "wrong": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who invented the telephone?",
+        "correct": "Alexander Graham Bell",
+        "wrong": [
+          "Thomas Edison",
+          "Nikola Tesla",
+          "Samuel Morse"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national animal of the Philippines?",
+        "correct": "Carabao",
+        "wrong": [
+          "Philippine Eagle",
+          "Tamaraw",
+          "Maya"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "correct": "Japan",
+        "wrong": [
+          "China",
+          "South Korea",
+          "Thailand"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct": "100°C",
+        "wrong": [
+          "90°C",
+          "99°C",
+          "212°C"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which language has the most native speakers in the world?",
+        "correct": "Mandarin Chinese",
+        "wrong": [
+          "English",
+          "Spanish",
+          "Hindi"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the smallest country in the world?",
+        "correct": "Vatican City",
+        "wrong": [
+          "Monaco",
+          "Malta",
+          "San Marino"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the capital city of Japan?",
+        "correct": "Tokyo",
+        "wrong": [
+          "Kyoto",
+          "Osaka",
+          "Seoul"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "correct": "Mars",
+        "wrong": [
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many continents are there in the world?",
+        "correct": "7",
+        "wrong": [
+          "5",
+          "6",
+          "8"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "correct": "Pacific Ocean",
+        "wrong": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who invented the telephone?",
+        "correct": "Alexander Graham Bell",
+        "wrong": [
+          "Thomas Edison",
+          "Nikola Tesla",
+          "Samuel Morse"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national animal of the Philippines?",
+        "correct": "Carabao",
+        "wrong": [
+          "Philippine Eagle",
+          "Tamaraw",
+          "Maya"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "correct": "Japan",
+        "wrong": [
+          "China",
+          "South Korea",
+          "Thailand"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct": "100°C",
+        "wrong": [
+          "90°C",
+          "99°C",
+          "212°C"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which language has the most native speakers in the world?",
+        "correct": "Mandarin Chinese",
+        "wrong": [
+          "English",
+          "Spanish",
+          "Hindi"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the smallest country in the world?",
+        "correct": "Vatican City",
+        "wrong": [
+          "Monaco",
+          "Malta",
+          "San Marino"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Science": {
+    "easy": [
+      {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "correct": "Carbon Dioxide",
+        "wrong": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "correct": "Au",
+        "wrong": [
+          "Ag",
+          "Fe",
+          "Pb"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which organ pumps blood throughout the body?",
+        "correct": "Heart",
+        "wrong": [
+          "Liver",
+          "Brain",
+          "Lungs"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the center of an atom called?",
+        "correct": "Nucleus",
+        "wrong": [
+          "Electron",
+          "Neutron only",
+          "Cell wall"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What force keeps planets in orbit around the sun?",
+        "correct": "Gravity",
+        "wrong": [
+          "Magnetism",
+          "Friction",
+          "Inertia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many bones are in the adult human body?",
+        "correct": "206",
+        "wrong": [
+          "200",
+          "212",
+          "180"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which vitamin is produced when exposed to sunlight?",
+        "correct": "Vitamin D",
+        "wrong": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is H2O commonly known as?",
+        "correct": "Water",
+        "wrong": [
+          "Hydrogen",
+          "Salt water",
+          "Ice only"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "correct": "Saturn",
+        "wrong": [
+          "Jupiter",
+          "Uranus",
+          "Neptune"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the fastest land animal?",
+        "correct": "Cheetah",
+        "wrong": [
+          "Lion",
+          "Leopard",
+          "Horse"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "correct": "Carbon Dioxide",
+        "wrong": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "correct": "Au",
+        "wrong": [
+          "Ag",
+          "Fe",
+          "Pb"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which organ pumps blood throughout the body?",
+        "correct": "Heart",
+        "wrong": [
+          "Liver",
+          "Brain",
+          "Lungs"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the center of an atom called?",
+        "correct": "Nucleus",
+        "wrong": [
+          "Electron",
+          "Neutron only",
+          "Cell wall"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What force keeps planets in orbit around the sun?",
+        "correct": "Gravity",
+        "wrong": [
+          "Magnetism",
+          "Friction",
+          "Inertia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many bones are in the adult human body?",
+        "correct": "206",
+        "wrong": [
+          "200",
+          "212",
+          "180"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which vitamin is produced when exposed to sunlight?",
+        "correct": "Vitamin D",
+        "wrong": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is H2O commonly known as?",
+        "correct": "Water",
+        "wrong": [
+          "Hydrogen",
+          "Salt water",
+          "Ice only"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "correct": "Saturn",
+        "wrong": [
+          "Jupiter",
+          "Uranus",
+          "Neptune"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the fastest land animal?",
+        "correct": "Cheetah",
+        "wrong": [
+          "Lion",
+          "Leopard",
+          "Horse"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "correct": "Carbon Dioxide",
+        "wrong": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "correct": "Au",
+        "wrong": [
+          "Ag",
+          "Fe",
+          "Pb"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which organ pumps blood throughout the body?",
+        "correct": "Heart",
+        "wrong": [
+          "Liver",
+          "Brain",
+          "Lungs"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the center of an atom called?",
+        "correct": "Nucleus",
+        "wrong": [
+          "Electron",
+          "Neutron only",
+          "Cell wall"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What force keeps planets in orbit around the sun?",
+        "correct": "Gravity",
+        "wrong": [
+          "Magnetism",
+          "Friction",
+          "Inertia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many bones are in the adult human body?",
+        "correct": "206",
+        "wrong": [
+          "200",
+          "212",
+          "180"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which vitamin is produced when exposed to sunlight?",
+        "correct": "Vitamin D",
+        "wrong": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is H2O commonly known as?",
+        "correct": "Water",
+        "wrong": [
+          "Hydrogen",
+          "Salt water",
+          "Ice only"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "correct": "Saturn",
+        "wrong": [
+          "Jupiter",
+          "Uranus",
+          "Neptune"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the fastest land animal?",
+        "correct": "Cheetah",
+        "wrong": [
+          "Lion",
+          "Leopard",
+          "Horse"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Technology": {
+    "easy": [
+      {
+        "question": "What does CPU stand for?",
+        "correct": "Central Processing Unit",
+        "wrong": [
+          "Computer Personal Unit",
+          "Core Processing Utility",
+          "Central Program Unit"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which company created the iPhone?",
+        "correct": "Apple",
+        "wrong": [
+          "Samsung",
+          "Google",
+          "Sony"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does HTML stand for?",
+        "correct": "HyperText Markup Language",
+        "wrong": [
+          "High Tech Modern Language",
+          "Hyperlink Text Mode Language",
+          "Home Tool Markup Language"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which social media platform is known for short videos?",
+        "correct": "TikTok",
+        "wrong": [
+          "Instagram",
+          "LinkedIn",
+          "Reddit"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the brain of the computer?",
+        "correct": "CPU",
+        "wrong": [
+          "RAM",
+          "Hard drive",
+          "Monitor"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which programming language is commonly used for web styling?",
+        "correct": "CSS",
+        "wrong": [
+          "HTML",
+          "Python",
+          "SQL"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does Wi-Fi allow devices to do?",
+        "correct": "Connect to the internet wirelessly",
+        "wrong": [
+          "Print without cables",
+          "Charge faster",
+          "Store unlimited data"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which company developed Windows OS?",
+        "correct": "Microsoft",
+        "wrong": [
+          "Apple",
+          "IBM",
+          "Intel"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the most popular search engine?",
+        "correct": "Google",
+        "wrong": [
+          "Bing",
+          "Yahoo",
+          "DuckDuckGo"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does USB stand for?",
+        "correct": "Universal Serial Bus",
+        "wrong": [
+          "United System Bus",
+          "Ultra Speed Bandwidth",
+          "Universal Signal Bridge"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "What does CPU stand for?",
+        "correct": "Central Processing Unit",
+        "wrong": [
+          "Computer Personal Unit",
+          "Core Processing Utility",
+          "Central Program Unit"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which company created the iPhone?",
+        "correct": "Apple",
+        "wrong": [
+          "Samsung",
+          "Google",
+          "Sony"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does HTML stand for?",
+        "correct": "HyperText Markup Language",
+        "wrong": [
+          "High Tech Modern Language",
+          "Hyperlink Text Mode Language",
+          "Home Tool Markup Language"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which social media platform is known for short videos?",
+        "correct": "TikTok",
+        "wrong": [
+          "Instagram",
+          "LinkedIn",
+          "Reddit"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the brain of the computer?",
+        "correct": "CPU",
+        "wrong": [
+          "RAM",
+          "Hard drive",
+          "Monitor"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which programming language is commonly used for web styling?",
+        "correct": "CSS",
+        "wrong": [
+          "HTML",
+          "Python",
+          "SQL"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does Wi-Fi allow devices to do?",
+        "correct": "Connect to the internet wirelessly",
+        "wrong": [
+          "Print without cables",
+          "Charge faster",
+          "Store unlimited data"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which company developed Windows OS?",
+        "correct": "Microsoft",
+        "wrong": [
+          "Apple",
+          "IBM",
+          "Intel"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the most popular search engine?",
+        "correct": "Google",
+        "wrong": [
+          "Bing",
+          "Yahoo",
+          "DuckDuckGo"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does USB stand for?",
+        "correct": "Universal Serial Bus",
+        "wrong": [
+          "United System Bus",
+          "Ultra Speed Bandwidth",
+          "Universal Signal Bridge"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "What does CPU stand for?",
+        "correct": "Central Processing Unit",
+        "wrong": [
+          "Computer Personal Unit",
+          "Core Processing Utility",
+          "Central Program Unit"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which company created the iPhone?",
+        "correct": "Apple",
+        "wrong": [
+          "Samsung",
+          "Google",
+          "Sony"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does HTML stand for?",
+        "correct": "HyperText Markup Language",
+        "wrong": [
+          "High Tech Modern Language",
+          "Hyperlink Text Mode Language",
+          "Home Tool Markup Language"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which social media platform is known for short videos?",
+        "correct": "TikTok",
+        "wrong": [
+          "Instagram",
+          "LinkedIn",
+          "Reddit"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the brain of the computer?",
+        "correct": "CPU",
+        "wrong": [
+          "RAM",
+          "Hard drive",
+          "Monitor"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which programming language is commonly used for web styling?",
+        "correct": "CSS",
+        "wrong": [
+          "HTML",
+          "Python",
+          "SQL"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does Wi-Fi allow devices to do?",
+        "correct": "Connect to the internet wirelessly",
+        "wrong": [
+          "Print without cables",
+          "Charge faster",
+          "Store unlimited data"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which company developed Windows OS?",
+        "correct": "Microsoft",
+        "wrong": [
+          "Apple",
+          "IBM",
+          "Intel"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the most popular search engine?",
+        "correct": "Google",
+        "wrong": [
+          "Bing",
+          "Yahoo",
+          "DuckDuckGo"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What does USB stand for?",
+        "correct": "Universal Serial Bus",
+        "wrong": [
+          "United System Bus",
+          "Ultra Speed Bandwidth",
+          "Universal Signal Bridge"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Movies & Entertainment": {
+    "easy": [
+      {
+        "question": "Who is the main character in Harry Potter?",
+        "correct": "Harry Potter",
+        "wrong": [
+          "Ron Weasley",
+          "Hermione Granger",
+          "Draco Malfoy"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie features the character Iron Man?",
+        "correct": "Iron Man",
+        "wrong": [
+          "Thor",
+          "Black Panther",
+          "Doctor Strange"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of Simba's father in The Lion King?",
+        "correct": "Mufasa",
+        "wrong": [
+          "Scar",
+          "Zazu",
+          "Timon"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie features blue aliens called Na'vi?",
+        "correct": "Avatar",
+        "wrong": [
+          "Dune",
+          "Star Trek",
+          "Guardians of the Galaxy"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who played Jack in Titanic?",
+        "correct": "Leonardo DiCaprio",
+        "wrong": [
+          "Brad Pitt",
+          "Tom Cruise",
+          "Johnny Depp"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which Disney princess lost her glass slipper?",
+        "correct": "Cinderella",
+        "wrong": [
+          "Belle",
+          "Ariel",
+          "Snow White"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is one of the highest-grossing movies of all time?",
+        "correct": "Avatar",
+        "wrong": [
+          "Casablanca",
+          "The Room",
+          "Citizen Kane"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which superhero is known as the Dark Knight?",
+        "correct": "Batman",
+        "wrong": [
+          "Superman",
+          "Spider-Man",
+          "Flash"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What school does Harry Potter attend?",
+        "correct": "Hogwarts",
+        "wrong": [
+          "Beauxbatons",
+          "Ilvermorny",
+          "Durmstrang"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie franchise features lightsabers?",
+        "correct": "Star Wars",
+        "wrong": [
+          "Star Trek",
+          "Harry Potter",
+          "Fast & Furious"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who is the main character in Harry Potter?",
+        "correct": "Harry Potter",
+        "wrong": [
+          "Ron Weasley",
+          "Hermione Granger",
+          "Draco Malfoy"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie features the character Iron Man?",
+        "correct": "Iron Man",
+        "wrong": [
+          "Thor",
+          "Black Panther",
+          "Doctor Strange"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of Simba's father in The Lion King?",
+        "correct": "Mufasa",
+        "wrong": [
+          "Scar",
+          "Zazu",
+          "Timon"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie features blue aliens called Na'vi?",
+        "correct": "Avatar",
+        "wrong": [
+          "Dune",
+          "Star Trek",
+          "Guardians of the Galaxy"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who played Jack in Titanic?",
+        "correct": "Leonardo DiCaprio",
+        "wrong": [
+          "Brad Pitt",
+          "Tom Cruise",
+          "Johnny Depp"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which Disney princess lost her glass slipper?",
+        "correct": "Cinderella",
+        "wrong": [
+          "Belle",
+          "Ariel",
+          "Snow White"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is one of the highest-grossing movies of all time?",
+        "correct": "Avatar",
+        "wrong": [
+          "Casablanca",
+          "The Room",
+          "Citizen Kane"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which superhero is known as the Dark Knight?",
+        "correct": "Batman",
+        "wrong": [
+          "Superman",
+          "Spider-Man",
+          "Flash"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What school does Harry Potter attend?",
+        "correct": "Hogwarts",
+        "wrong": [
+          "Beauxbatons",
+          "Ilvermorny",
+          "Durmstrang"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie franchise features lightsabers?",
+        "correct": "Star Wars",
+        "wrong": [
+          "Star Trek",
+          "Harry Potter",
+          "Fast & Furious"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who is the main character in Harry Potter?",
+        "correct": "Harry Potter",
+        "wrong": [
+          "Ron Weasley",
+          "Hermione Granger",
+          "Draco Malfoy"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie features the character Iron Man?",
+        "correct": "Iron Man",
+        "wrong": [
+          "Thor",
+          "Black Panther",
+          "Doctor Strange"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of Simba's father in The Lion King?",
+        "correct": "Mufasa",
+        "wrong": [
+          "Scar",
+          "Zazu",
+          "Timon"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie features blue aliens called Na'vi?",
+        "correct": "Avatar",
+        "wrong": [
+          "Dune",
+          "Star Trek",
+          "Guardians of the Galaxy"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who played Jack in Titanic?",
+        "correct": "Leonardo DiCaprio",
+        "wrong": [
+          "Brad Pitt",
+          "Tom Cruise",
+          "Johnny Depp"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which Disney princess lost her glass slipper?",
+        "correct": "Cinderella",
+        "wrong": [
+          "Belle",
+          "Ariel",
+          "Snow White"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is one of the highest-grossing movies of all time?",
+        "correct": "Avatar",
+        "wrong": [
+          "Casablanca",
+          "The Room",
+          "Citizen Kane"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which superhero is known as the Dark Knight?",
+        "correct": "Batman",
+        "wrong": [
+          "Superman",
+          "Spider-Man",
+          "Flash"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What school does Harry Potter attend?",
+        "correct": "Hogwarts",
+        "wrong": [
+          "Beauxbatons",
+          "Ilvermorny",
+          "Durmstrang"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which movie franchise features lightsabers?",
+        "correct": "Star Wars",
+        "wrong": [
+          "Star Trek",
+          "Harry Potter",
+          "Fast & Furious"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Sports": {
+    "easy": [
+      {
+        "question": "How many players are on a basketball team on the court?",
+        "correct": "5",
+        "wrong": [
+          "4",
+          "6",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country won the FIFA World Cup in 2022?",
+        "correct": "Argentina",
+        "wrong": [
+          "France",
+          "Brazil",
+          "Germany"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport uses a racket and shuttlecock?",
+        "correct": "Badminton",
+        "wrong": [
+          "Tennis",
+          "Squash",
+          "Table tennis"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many rings are on the Olympic flag?",
+        "correct": "5",
+        "wrong": [
+          "4",
+          "6",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport is Michael Jordan famous for?",
+        "correct": "Basketball",
+        "wrong": [
+          "Baseball",
+          "Golf",
+          "Soccer"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which sport is often called the world's most popular sport?",
+        "correct": "Soccer",
+        "wrong": [
+          "Cricket",
+          "American football",
+          "Ice hockey"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national sport of the Philippines?",
+        "correct": "Arnis",
+        "wrong": [
+          "Basketball",
+          "Boxing",
+          "Volleyball"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which sport uses pins and a bowling ball?",
+        "correct": "Bowling",
+        "wrong": [
+          "Golf",
+          "Curling",
+          "Darts"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many points is a touchdown worth in American football?",
+        "correct": "6",
+        "wrong": [
+          "3",
+          "7",
+          "2"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport does Novak Djokovic play?",
+        "correct": "Tennis",
+        "wrong": [
+          "Badminton",
+          "Squash",
+          "Table tennis"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "How many players are on a basketball team on the court?",
+        "correct": "5",
+        "wrong": [
+          "4",
+          "6",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country won the FIFA World Cup in 2022?",
+        "correct": "Argentina",
+        "wrong": [
+          "France",
+          "Brazil",
+          "Germany"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport uses a racket and shuttlecock?",
+        "correct": "Badminton",
+        "wrong": [
+          "Tennis",
+          "Squash",
+          "Table tennis"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many rings are on the Olympic flag?",
+        "correct": "5",
+        "wrong": [
+          "4",
+          "6",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport is Michael Jordan famous for?",
+        "correct": "Basketball",
+        "wrong": [
+          "Baseball",
+          "Golf",
+          "Soccer"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which sport is often called the world's most popular sport?",
+        "correct": "Soccer",
+        "wrong": [
+          "Cricket",
+          "American football",
+          "Ice hockey"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national sport of the Philippines?",
+        "correct": "Arnis",
+        "wrong": [
+          "Basketball",
+          "Boxing",
+          "Volleyball"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which sport uses pins and a bowling ball?",
+        "correct": "Bowling",
+        "wrong": [
+          "Golf",
+          "Curling",
+          "Darts"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many points is a touchdown worth in American football?",
+        "correct": "6",
+        "wrong": [
+          "3",
+          "7",
+          "2"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport does Novak Djokovic play?",
+        "correct": "Tennis",
+        "wrong": [
+          "Badminton",
+          "Squash",
+          "Table tennis"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "How many players are on a basketball team on the court?",
+        "correct": "5",
+        "wrong": [
+          "4",
+          "6",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country won the FIFA World Cup in 2022?",
+        "correct": "Argentina",
+        "wrong": [
+          "France",
+          "Brazil",
+          "Germany"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport uses a racket and shuttlecock?",
+        "correct": "Badminton",
+        "wrong": [
+          "Tennis",
+          "Squash",
+          "Table tennis"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many rings are on the Olympic flag?",
+        "correct": "5",
+        "wrong": [
+          "4",
+          "6",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport is Michael Jordan famous for?",
+        "correct": "Basketball",
+        "wrong": [
+          "Baseball",
+          "Golf",
+          "Soccer"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which sport is often called the world's most popular sport?",
+        "correct": "Soccer",
+        "wrong": [
+          "Cricket",
+          "American football",
+          "Ice hockey"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national sport of the Philippines?",
+        "correct": "Arnis",
+        "wrong": [
+          "Basketball",
+          "Boxing",
+          "Volleyball"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which sport uses pins and a bowling ball?",
+        "correct": "Bowling",
+        "wrong": [
+          "Golf",
+          "Curling",
+          "Darts"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "How many points is a touchdown worth in American football?",
+        "correct": "6",
+        "wrong": [
+          "3",
+          "7",
+          "2"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport does Novak Djokovic play?",
+        "correct": "Tennis",
+        "wrong": [
+          "Badminton",
+          "Squash",
+          "Table tennis"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Mathematics": {
+    "easy": [
+      {
+        "question": "What is 9 x 8?",
+        "correct": "72",
+        "wrong": [
+          "64",
+          "81",
+          "56"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the square root of 81?",
+        "correct": "9",
+        "wrong": [
+          "8",
+          "10",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 15 + 27?",
+        "correct": "42",
+        "wrong": [
+          "41",
+          "43",
+          "52"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is Pi rounded to two decimal places?",
+        "correct": "3.14",
+        "wrong": [
+          "3.41",
+          "3.15",
+          "2.71"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 100 divided by 4?",
+        "correct": "25",
+        "wrong": [
+          "20",
+          "24",
+          "30"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 12 squared?",
+        "correct": "144",
+        "wrong": [
+          "132",
+          "156",
+          "169"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is half of 250?",
+        "correct": "125",
+        "wrong": [
+          "100",
+          "150",
+          "200"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 7 cubed?",
+        "correct": "343",
+        "wrong": [
+          "333",
+          "351",
+          "329"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Solve: 18 - 9 + 6",
+        "correct": "15",
+        "wrong": [
+          "12",
+          "21",
+          "18"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the perimeter formula for a rectangle?",
+        "correct": "2(length + width)",
+        "wrong": [
+          "length × width",
+          "length + width",
+          "4 × length"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "What is 9 x 8?",
+        "correct": "72",
+        "wrong": [
+          "64",
+          "81",
+          "56"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the square root of 81?",
+        "correct": "9",
+        "wrong": [
+          "8",
+          "10",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 15 + 27?",
+        "correct": "42",
+        "wrong": [
+          "41",
+          "43",
+          "52"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is Pi rounded to two decimal places?",
+        "correct": "3.14",
+        "wrong": [
+          "3.41",
+          "3.15",
+          "2.71"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 100 divided by 4?",
+        "correct": "25",
+        "wrong": [
+          "20",
+          "24",
+          "30"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 12 squared?",
+        "correct": "144",
+        "wrong": [
+          "132",
+          "156",
+          "169"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is half of 250?",
+        "correct": "125",
+        "wrong": [
+          "100",
+          "150",
+          "200"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 7 cubed?",
+        "correct": "343",
+        "wrong": [
+          "333",
+          "351",
+          "329"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Solve: 18 - 9 + 6",
+        "correct": "15",
+        "wrong": [
+          "12",
+          "21",
+          "18"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the perimeter formula for a rectangle?",
+        "correct": "2(length + width)",
+        "wrong": [
+          "length × width",
+          "length + width",
+          "4 × length"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is 9 x 8?",
+        "correct": "72",
+        "wrong": [
+          "64",
+          "81",
+          "56"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the square root of 81?",
+        "correct": "9",
+        "wrong": [
+          "8",
+          "10",
+          "7"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 15 + 27?",
+        "correct": "42",
+        "wrong": [
+          "41",
+          "43",
+          "52"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is Pi rounded to two decimal places?",
+        "correct": "3.14",
+        "wrong": [
+          "3.41",
+          "3.15",
+          "2.71"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 100 divided by 4?",
+        "correct": "25",
+        "wrong": [
+          "20",
+          "24",
+          "30"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 12 squared?",
+        "correct": "144",
+        "wrong": [
+          "132",
+          "156",
+          "169"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is half of 250?",
+        "correct": "125",
+        "wrong": [
+          "100",
+          "150",
+          "200"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is 7 cubed?",
+        "correct": "343",
+        "wrong": [
+          "333",
+          "351",
+          "329"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Solve: 18 - 9 + 6",
+        "correct": "15",
+        "wrong": [
+          "12",
+          "21",
+          "18"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the perimeter formula for a rectangle?",
+        "correct": "2(length + width)",
+        "wrong": [
+          "length × width",
+          "length + width",
+          "4 × length"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Geography": {
+    "easy": [
+      {
+        "question": "What is the largest country in the world?",
+        "correct": "Russia",
+        "wrong": [
+          "Canada",
+          "China",
+          "United States"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which continent is Egypt located in?",
+        "correct": "Africa",
+        "wrong": [
+          "Asia",
+          "Europe",
+          "Australia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "correct": "Nile River",
+        "wrong": [
+          "Amazon River",
+          "Yangtze River",
+          "Mississippi River"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country has the largest population?",
+        "correct": "India",
+        "wrong": [
+          "China",
+          "United States",
+          "Indonesia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital of France?",
+        "correct": "Paris",
+        "wrong": [
+          "Lyon",
+          "Marseille",
+          "Nice"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which desert is the largest hot desert in the world?",
+        "correct": "Sahara Desert",
+        "wrong": [
+          "Gobi Desert",
+          "Arabian Desert",
+          "Kalahari Desert"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country is famous for the Great Wall?",
+        "correct": "China",
+        "wrong": [
+          "Japan",
+          "Mongolia",
+          "Vietnam"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital city of the Philippines?",
+        "correct": "Manila",
+        "wrong": [
+          "Cebu City",
+          "Davao City",
+          "Quezon City"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Mount Everest is located in which mountain range?",
+        "correct": "Himalayas",
+        "wrong": [
+          "Andes",
+          "Alps",
+          "Rockies"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which ocean lies between Africa and Australia?",
+        "correct": "Indian Ocean",
+        "wrong": [
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Southern Ocean"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "What is the largest country in the world?",
+        "correct": "Russia",
+        "wrong": [
+          "Canada",
+          "China",
+          "United States"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which continent is Egypt located in?",
+        "correct": "Africa",
+        "wrong": [
+          "Asia",
+          "Europe",
+          "Australia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "correct": "Nile River",
+        "wrong": [
+          "Amazon River",
+          "Yangtze River",
+          "Mississippi River"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country has the largest population?",
+        "correct": "India",
+        "wrong": [
+          "China",
+          "United States",
+          "Indonesia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital of France?",
+        "correct": "Paris",
+        "wrong": [
+          "Lyon",
+          "Marseille",
+          "Nice"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which desert is the largest hot desert in the world?",
+        "correct": "Sahara Desert",
+        "wrong": [
+          "Gobi Desert",
+          "Arabian Desert",
+          "Kalahari Desert"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country is famous for the Great Wall?",
+        "correct": "China",
+        "wrong": [
+          "Japan",
+          "Mongolia",
+          "Vietnam"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital city of the Philippines?",
+        "correct": "Manila",
+        "wrong": [
+          "Cebu City",
+          "Davao City",
+          "Quezon City"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Mount Everest is located in which mountain range?",
+        "correct": "Himalayas",
+        "wrong": [
+          "Andes",
+          "Alps",
+          "Rockies"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which ocean lies between Africa and Australia?",
+        "correct": "Indian Ocean",
+        "wrong": [
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Southern Ocean"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the largest country in the world?",
+        "correct": "Russia",
+        "wrong": [
+          "Canada",
+          "China",
+          "United States"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which continent is Egypt located in?",
+        "correct": "Africa",
+        "wrong": [
+          "Asia",
+          "Europe",
+          "Australia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "correct": "Nile River",
+        "wrong": [
+          "Amazon River",
+          "Yangtze River",
+          "Mississippi River"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country has the largest population?",
+        "correct": "India",
+        "wrong": [
+          "China",
+          "United States",
+          "Indonesia"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital of France?",
+        "correct": "Paris",
+        "wrong": [
+          "Lyon",
+          "Marseille",
+          "Nice"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which desert is the largest hot desert in the world?",
+        "correct": "Sahara Desert",
+        "wrong": [
+          "Gobi Desert",
+          "Arabian Desert",
+          "Kalahari Desert"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which country is famous for the Great Wall?",
+        "correct": "China",
+        "wrong": [
+          "Japan",
+          "Mongolia",
+          "Vietnam"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital city of the Philippines?",
+        "correct": "Manila",
+        "wrong": [
+          "Cebu City",
+          "Davao City",
+          "Quezon City"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Mount Everest is located in which mountain range?",
+        "correct": "Himalayas",
+        "wrong": [
+          "Andes",
+          "Alps",
+          "Rockies"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which ocean lies between Africa and Australia?",
+        "correct": "Indian Ocean",
+        "wrong": [
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Southern Ocean"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Philippine Trivia": {
+    "easy": [
+      {
+        "question": "Who is the national hero of the Philippines?",
+        "correct": "Jose Rizal",
+        "wrong": [
+          "Andres Bonifacio",
+          "Emilio Aguinaldo",
+          "Apolinario Mabini"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital of Davao del Sur?",
+        "correct": "Digos City",
+        "wrong": [
+          "Davao City",
+          "Tagum",
+          "Mati"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the Filipino national language?",
+        "correct": "Filipino",
+        "wrong": [
+          "English only",
+          "Cebuano only",
+          "Tagalog only"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which Philippine festival is known as the Festival of Festivals?",
+        "correct": "Aliwan Festival",
+        "wrong": [
+          "Sinulog",
+          "Ati-Atihan",
+          "Panagbenga"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the currency of the Philippines?",
+        "correct": "Philippine Peso",
+        "wrong": [
+          "US Dollar",
+          "Yen",
+          "Euro"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which island group is Davao located in?",
+        "correct": "Mindanao",
+        "wrong": [
+          "Luzon",
+          "Visayas",
+          "Palawan"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national bird of the Philippines?",
+        "correct": "Philippine Eagle",
+        "wrong": [
+          "Maya",
+          "Tamaraw",
+          "Carabao"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the traditional Filipino clothing for men called?",
+        "correct": "Barong Tagalog",
+        "wrong": [
+          "Baro't saya",
+          "Kimono",
+          "Malong"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who was the first President of the Philippines?",
+        "correct": "Emilio Aguinaldo",
+        "wrong": [
+          "Manuel Quezon",
+          "Manuel Roxas",
+          "Sergio Osmeña"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the largest island in the Philippines?",
+        "correct": "Luzon",
+        "wrong": [
+          "Mindanao",
+          "Palawan",
+          "Negros"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who is the national hero of the Philippines?",
+        "correct": "Jose Rizal",
+        "wrong": [
+          "Andres Bonifacio",
+          "Emilio Aguinaldo",
+          "Apolinario Mabini"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital of Davao del Sur?",
+        "correct": "Digos City",
+        "wrong": [
+          "Davao City",
+          "Tagum",
+          "Mati"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the Filipino national language?",
+        "correct": "Filipino",
+        "wrong": [
+          "English only",
+          "Cebuano only",
+          "Tagalog only"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which Philippine festival is known as the Festival of Festivals?",
+        "correct": "Aliwan Festival",
+        "wrong": [
+          "Sinulog",
+          "Ati-Atihan",
+          "Panagbenga"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the currency of the Philippines?",
+        "correct": "Philippine Peso",
+        "wrong": [
+          "US Dollar",
+          "Yen",
+          "Euro"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which island group is Davao located in?",
+        "correct": "Mindanao",
+        "wrong": [
+          "Luzon",
+          "Visayas",
+          "Palawan"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national bird of the Philippines?",
+        "correct": "Philippine Eagle",
+        "wrong": [
+          "Maya",
+          "Tamaraw",
+          "Carabao"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the traditional Filipino clothing for men called?",
+        "correct": "Barong Tagalog",
+        "wrong": [
+          "Baro't saya",
+          "Kimono",
+          "Malong"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who was the first President of the Philippines?",
+        "correct": "Emilio Aguinaldo",
+        "wrong": [
+          "Manuel Quezon",
+          "Manuel Roxas",
+          "Sergio Osmeña"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the largest island in the Philippines?",
+        "correct": "Luzon",
+        "wrong": [
+          "Mindanao",
+          "Palawan",
+          "Negros"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who is the national hero of the Philippines?",
+        "correct": "Jose Rizal",
+        "wrong": [
+          "Andres Bonifacio",
+          "Emilio Aguinaldo",
+          "Apolinario Mabini"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the capital of Davao del Sur?",
+        "correct": "Digos City",
+        "wrong": [
+          "Davao City",
+          "Tagum",
+          "Mati"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the Filipino national language?",
+        "correct": "Filipino",
+        "wrong": [
+          "English only",
+          "Cebuano only",
+          "Tagalog only"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which Philippine festival is known as the Festival of Festivals?",
+        "correct": "Aliwan Festival",
+        "wrong": [
+          "Sinulog",
+          "Ati-Atihan",
+          "Panagbenga"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the currency of the Philippines?",
+        "correct": "Philippine Peso",
+        "wrong": [
+          "US Dollar",
+          "Yen",
+          "Euro"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which island group is Davao located in?",
+        "correct": "Mindanao",
+        "wrong": [
+          "Luzon",
+          "Visayas",
+          "Palawan"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the national bird of the Philippines?",
+        "correct": "Philippine Eagle",
+        "wrong": [
+          "Maya",
+          "Tamaraw",
+          "Carabao"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the traditional Filipino clothing for men called?",
+        "correct": "Barong Tagalog",
+        "wrong": [
+          "Baro't saya",
+          "Kimono",
+          "Malong"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who was the first President of the Philippines?",
+        "correct": "Emilio Aguinaldo",
+        "wrong": [
+          "Manuel Quezon",
+          "Manuel Roxas",
+          "Sergio Osmeña"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the largest island in the Philippines?",
+        "correct": "Luzon",
+        "wrong": [
+          "Mindanao",
+          "Palawan",
+          "Negros"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Anime": {
+    "easy": [
+      {
+        "question": "Who is Naruto's best friend and rival?",
+        "correct": "Sasuke Uchiha",
+        "wrong": [
+          "Shikamaru",
+          "Rock Lee",
+          "Gaara"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of Luffy's crew in One Piece?",
+        "correct": "Straw Hat Pirates",
+        "wrong": [
+          "Heart Pirates",
+          "Kid Pirates",
+          "Red Hair Pirates"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime features Titans?",
+        "correct": "Attack on Titan",
+        "wrong": [
+          "Naruto",
+          "Bleach",
+          "One Piece"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who is the creator of Dragon Ball?",
+        "correct": "Akira Toriyama",
+        "wrong": [
+          "Eiichiro Oda",
+          "Masashi Kishimoto",
+          "Hajime Isayama"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of the notebook in Death Note?",
+        "correct": "Death Note",
+        "wrong": [
+          "Life Note",
+          "Shinigami Book",
+          "Shadow Diary"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime character says \"Plus Ultra\"?",
+        "correct": "All Might",
+        "wrong": [
+          "Deku",
+          "Endeavor",
+          "Bakugo"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport is featured in Haikyuu?",
+        "correct": "Volleyball",
+        "wrong": [
+          "Basketball",
+          "Soccer",
+          "Swimming"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who is Pikachu's trainer?",
+        "correct": "Ash Ketchum",
+        "wrong": [
+          "Misty",
+          "Brock",
+          "Gary Oak"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is Tanjiro's sister's name in Demon Slayer?",
+        "correct": "Nezuko",
+        "wrong": [
+          "Zenitsu",
+          "Kanao",
+          "Shinobu"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime features alchemy brothers Edward and Alphonse?",
+        "correct": "Fullmetal Alchemist",
+        "wrong": [
+          "Naruto",
+          "Bleach",
+          "Hunter x Hunter"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who is Naruto's best friend and rival?",
+        "correct": "Sasuke Uchiha",
+        "wrong": [
+          "Shikamaru",
+          "Rock Lee",
+          "Gaara"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of Luffy's crew in One Piece?",
+        "correct": "Straw Hat Pirates",
+        "wrong": [
+          "Heart Pirates",
+          "Kid Pirates",
+          "Red Hair Pirates"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime features Titans?",
+        "correct": "Attack on Titan",
+        "wrong": [
+          "Naruto",
+          "Bleach",
+          "One Piece"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who is the creator of Dragon Ball?",
+        "correct": "Akira Toriyama",
+        "wrong": [
+          "Eiichiro Oda",
+          "Masashi Kishimoto",
+          "Hajime Isayama"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of the notebook in Death Note?",
+        "correct": "Death Note",
+        "wrong": [
+          "Life Note",
+          "Shinigami Book",
+          "Shadow Diary"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime character says \"Plus Ultra\"?",
+        "correct": "All Might",
+        "wrong": [
+          "Deku",
+          "Endeavor",
+          "Bakugo"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport is featured in Haikyuu?",
+        "correct": "Volleyball",
+        "wrong": [
+          "Basketball",
+          "Soccer",
+          "Swimming"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who is Pikachu's trainer?",
+        "correct": "Ash Ketchum",
+        "wrong": [
+          "Misty",
+          "Brock",
+          "Gary Oak"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is Tanjiro's sister's name in Demon Slayer?",
+        "correct": "Nezuko",
+        "wrong": [
+          "Zenitsu",
+          "Kanao",
+          "Shinobu"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime features alchemy brothers Edward and Alphonse?",
+        "correct": "Fullmetal Alchemist",
+        "wrong": [
+          "Naruto",
+          "Bleach",
+          "Hunter x Hunter"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who is Naruto's best friend and rival?",
+        "correct": "Sasuke Uchiha",
+        "wrong": [
+          "Shikamaru",
+          "Rock Lee",
+          "Gaara"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of Luffy's crew in One Piece?",
+        "correct": "Straw Hat Pirates",
+        "wrong": [
+          "Heart Pirates",
+          "Kid Pirates",
+          "Red Hair Pirates"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime features Titans?",
+        "correct": "Attack on Titan",
+        "wrong": [
+          "Naruto",
+          "Bleach",
+          "One Piece"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who is the creator of Dragon Ball?",
+        "correct": "Akira Toriyama",
+        "wrong": [
+          "Eiichiro Oda",
+          "Masashi Kishimoto",
+          "Hajime Isayama"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is the name of the notebook in Death Note?",
+        "correct": "Death Note",
+        "wrong": [
+          "Life Note",
+          "Shinigami Book",
+          "Shadow Diary"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime character says \"Plus Ultra\"?",
+        "correct": "All Might",
+        "wrong": [
+          "Deku",
+          "Endeavor",
+          "Bakugo"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What sport is featured in Haikyuu?",
+        "correct": "Volleyball",
+        "wrong": [
+          "Basketball",
+          "Soccer",
+          "Swimming"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Who is Pikachu's trainer?",
+        "correct": "Ash Ketchum",
+        "wrong": [
+          "Misty",
+          "Brock",
+          "Gary Oak"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What is Tanjiro's sister's name in Demon Slayer?",
+        "correct": "Nezuko",
+        "wrong": [
+          "Zenitsu",
+          "Kanao",
+          "Shinobu"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "Which anime features alchemy brothers Edward and Alphonse?",
+        "correct": "Fullmetal Alchemist",
+        "wrong": [
+          "Naruto",
+          "Bleach",
+          "Hunter x Hunter"
+        ],
+        "explanation": ""
+      }
+    ]
+  },
+  "Riddles & Brain Teasers": {
+    "easy": [
+      {
+        "question": "What has keys but cannot open locks?",
+        "correct": "Piano",
+        "wrong": [
+          "Computer keyboard",
+          "Map",
+          "Treasure chest"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What gets wetter the more it dries?",
+        "correct": "Towel",
+        "wrong": [
+          "Sponge",
+          "Soap",
+          "River"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has hands but cannot clap?",
+        "correct": "Clock",
+        "wrong": [
+          "Robot",
+          "Glove",
+          "Watch"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has a neck but no head?",
+        "correct": "Bottle",
+        "wrong": [
+          "Giraffe toy",
+          "Shirt",
+          "Vase"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What can travel around the world while staying in one corner?",
+        "correct": "Stamp",
+        "wrong": [
+          "Wind",
+          "Internet signal",
+          "Thought"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has many teeth but cannot bite?",
+        "correct": "Comb",
+        "wrong": [
+          "Zipper",
+          "Saw",
+          "Fork"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "correct": "The letter M",
+        "wrong": [
+          "The letter N",
+          "Silence",
+          "Air"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What goes up but never comes down?",
+        "correct": "Age",
+        "wrong": [
+          "Smoke",
+          "Temperature",
+          "Balloon"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has one eye but cannot see?",
+        "correct": "Needle",
+        "wrong": [
+          "Button",
+          "Storm",
+          "Cyclops"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What begins with T, ends with T, and has tea inside?",
+        "correct": "Teapot",
+        "wrong": [
+          "Tent",
+          "Toast",
+          "Treat"
+        ],
+        "explanation": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "What has keys but cannot open locks?",
+        "correct": "Piano",
+        "wrong": [
+          "Computer keyboard",
+          "Map",
+          "Treasure chest"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What gets wetter the more it dries?",
+        "correct": "Towel",
+        "wrong": [
+          "Sponge",
+          "Soap",
+          "River"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has hands but cannot clap?",
+        "correct": "Clock",
+        "wrong": [
+          "Robot",
+          "Glove",
+          "Watch"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has a neck but no head?",
+        "correct": "Bottle",
+        "wrong": [
+          "Giraffe toy",
+          "Shirt",
+          "Vase"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What can travel around the world while staying in one corner?",
+        "correct": "Stamp",
+        "wrong": [
+          "Wind",
+          "Internet signal",
+          "Thought"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has many teeth but cannot bite?",
+        "correct": "Comb",
+        "wrong": [
+          "Zipper",
+          "Saw",
+          "Fork"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "correct": "The letter M",
+        "wrong": [
+          "The letter N",
+          "Silence",
+          "Air"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What goes up but never comes down?",
+        "correct": "Age",
+        "wrong": [
+          "Smoke",
+          "Temperature",
+          "Balloon"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has one eye but cannot see?",
+        "correct": "Needle",
+        "wrong": [
+          "Button",
+          "Storm",
+          "Cyclops"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What begins with T, ends with T, and has tea inside?",
+        "correct": "Teapot",
+        "wrong": [
+          "Tent",
+          "Toast",
+          "Treat"
+        ],
+        "explanation": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "What has keys but cannot open locks?",
+        "correct": "Piano",
+        "wrong": [
+          "Computer keyboard",
+          "Map",
+          "Treasure chest"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What gets wetter the more it dries?",
+        "correct": "Towel",
+        "wrong": [
+          "Sponge",
+          "Soap",
+          "River"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has hands but cannot clap?",
+        "correct": "Clock",
+        "wrong": [
+          "Robot",
+          "Glove",
+          "Watch"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has a neck but no head?",
+        "correct": "Bottle",
+        "wrong": [
+          "Giraffe toy",
+          "Shirt",
+          "Vase"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What can travel around the world while staying in one corner?",
+        "correct": "Stamp",
+        "wrong": [
+          "Wind",
+          "Internet signal",
+          "Thought"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has many teeth but cannot bite?",
+        "correct": "Comb",
+        "wrong": [
+          "Zipper",
+          "Saw",
+          "Fork"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "correct": "The letter M",
+        "wrong": [
+          "The letter N",
+          "Silence",
+          "Air"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What goes up but never comes down?",
+        "correct": "Age",
+        "wrong": [
+          "Smoke",
+          "Temperature",
+          "Balloon"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What has one eye but cannot see?",
+        "correct": "Needle",
+        "wrong": [
+          "Button",
+          "Storm",
+          "Cyclops"
+        ],
+        "explanation": ""
+      },
+      {
+        "question": "What begins with T, ends with T, and has tea inside?",
+        "correct": "Teapot",
+        "wrong": [
+          "Tent",
+          "Toast",
+          "Treat"
+        ],
+        "explanation": ""
+      }
+    ]
+  }
+}
